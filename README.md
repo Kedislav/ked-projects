@@ -1,5 +1,5 @@
 # 0x00 // ked-projects
-Personal coding projects I've worked on through different platforms, such as Codecademy, FreeCodeCamp, Scrimba, Educative, etc.
+Personal projects I've worked on through different platforms, such as Codecademy, Hack the Box, FreeCodeCamp, Scrimba, Educative, etc. It includes a wide variety of things I've done, such as programming or CTF writeups, from scripts to automated tools for fun. Enjoy.
 
 
 ## Completed Courses
