@@ -3,9 +3,9 @@ Personal projects I've worked on through different platforms, such as Codecademy
 
 
 ## Completed Courses
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/default_file.svg" width="20" height="20"/> Code Foundations @ [Codecademy](https://www.codecademy.com/learn/paths/code-foundations) \n
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_shell.svg" width="20" height="20"/> Bash Scripting @ [Codecademy](https://www.codecademy.com/learn/bash-scripting) \n
+<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/default_file.svg" width="20" height="20"/> Code Foundations @ [Codecademy](https://www.codecademy.com/learn/paths/code-foundations) <br/>
+<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_shell.svg" width="20" height="20"/> Bash Scripting @ [Codecademy](https://www.codecademy.com/learn/bash-scripting) <br/>
 
 ## Ongoing Courses
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_swift.svg" width="20" height="20"/> Swift Language Course @ [Codecademy](https://www.codecademy.com/learn/learn-swift) | 23% Completed \n
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" width="20" height="20"/> Python3 Language Course @ [Codecademy](https://www.codecademy.com/learn/learn-python-3) | 43% Completed \n
+<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_swift.svg" width="20" height="20"/> Swift Language Course @ [Codecademy](https://www.codecademy.com/learn/learn-swift) | 23% Completed <br/>
+<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" width="20" height="20"/> Python3 Language Course @ [Codecademy](https://www.codecademy.com/learn/learn-python-3) | 43% Completed <br/>
