@@ -7,5 +7,5 @@ Personal projects I've worked on through different platforms, such as Codecademy
 - ✅ Bash Scripting @ [Codecademy](https://www.codecademy.com/learn/bash-scripting)
 
 ## Ongoing Courses
-- <img src="https://www.svgrepo.com/show/376351/swift.svg"/> Swift Language Course @ [Codecademy](https://www.codecademy.com/learn/learn-swift) | 23% Completed
+- <img src="https://www.svgrepo.com/show/374112/swift.svg"/> Swift Language Course @ [Codecademy](https://www.codecademy.com/learn/learn-swift) | 23% Completed
 - 🐍 Python3 Language Course @ [Codecademy](https://www.codecademy.com/learn/learn-python-3) | 43% Completed
