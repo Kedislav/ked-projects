@@ -8,4 +8,4 @@ Personal projects I've worked on through different platforms, such as Codecademy
 
 ## Ongoing Courses
 - <img src="https://www.svgrepo.com/show/374112/swift.svg"/> Swift Language Course @ [Codecademy](https://www.codecademy.com/learn/learn-swift) | 23% Completed
-- <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg"/> Python3 Language Course @ [Codecademy](https://www.codecademy.com/learn/learn-python-3) | 43% Completed
+- <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" width="40" height="40"/> Python3 Language Course @ [Codecademy](https://www.codecademy.com/learn/learn-python-3) | 43% Completed
