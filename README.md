@@ -3,7 +3,7 @@ Personal projects I've worked on through different platforms, such as Codecademy
 
 ## Fun Projects I've Taken On:
 1. Set up an Ubuntu Server
-  - Configured it to run Synapse, a [Matrix](https://matrix.org/) homeserver implementation. ([@dpizarrow](https://github.com/dpizarrow) helped a lot!)
+    - Configured it to run Synapse, a [Matrix](https://matrix.org/) homeserver implementation. ([@dpizarrow](https://github.com/dpizarrow) helped a lot!)
 
 ## Completed Courses
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/default_file.svg" width="20" height="20"/> Code Foundations @ [Codecademy](https://www.codecademy.com/learn/paths/code-foundations) <br/>
