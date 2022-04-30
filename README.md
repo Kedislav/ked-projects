@@ -5,7 +5,8 @@ Personal projects I've worked on through different platforms, such as Codecademy
 - Set up an Ubuntu Server (Ubuntu 22.04 LTS).
     - Redirected it's IP to point to a **dynamic DNS**.
     - Memed its default SSH port with the **[Endlessh](https://github.com/skeeto/endlessh)** tarpit to stop script kiddies and bots.
-    - Configured it to run **Synapse**, a **[Matrix](https://matrix.org/) homeserver implementation**. ([@dpizarrow](https://github.com/dpizarrow) helped a lot, check him out!)
+    - Configured it to run **Synapse**, a [**Matrix**](https://matrix.org/) homeserver implementation.
+        - Implemented [PostgreSQL](https://www.postgresql.org/about/) for User Auth. ([@dpizarrow](https://github.com/dpizarrow) helped a lot, check him out!)
 
 ## Completed Courses
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/default_file.svg" width="20" height="20"/> Code Foundations @ [Codecademy](https://www.codecademy.com/learn/paths/code-foundations) <br/>
