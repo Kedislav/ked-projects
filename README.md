@@ -8,10 +8,14 @@ Personal projects I've worked on through different platforms, such as Codecademy
     - Configured it to run **Synapse**, a [**Matrix**](https://matrix.org/) homeserver implementation.
         - Implemented [PostgreSQL](https://www.postgresql.org/about/) for User Auth. ([@dpizarrow](https://github.com/dpizarrow) helped a lot, check him out!)
 
-## Completed Courses
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/default_file.svg" width="20" height="20"/> Code Foundations @ [Codecademy](https://www.codecademy.com/learn/paths/code-foundations) <br/>
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_shell.svg" width="20" height="20"/> Bash Scripting @ [Codecademy](https://www.codecademy.com/learn/bash-scripting) <br/>
+## Courses/Practices
 
-## Ongoing Courses
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_swift.svg" width="20" height="20"/> Swift Language Course @ [Codecademy](https://www.codecademy.com/learn/learn-swift) | 23% Completed <br/>
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_python.svg" width="20" height="20"/> Python3 Language Course @ [Codecademy](https://www.codecademy.com/learn/learn-python-3) | 43% Completed <br/>
+### <a href="https://www.codecademy.com" target="_blank" alt="Codecademy"> <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/000000/external-codecademy-an-online-platform-offers-free-coding-classes-programming-languages-logo-duo-tal-revivo.png"/> </a><br> Codecademy
+- [ ] <img src="https://img.icons8.com/color/20/000000/informatics.png"/> Computer Science Carreer Path | [Link](https://www.codecademy.com/learn/paths/computer-science)
+- [x] <img src="https://img.icons8.com/color/20/000000/code.png"/> Code Foundations Skill Path | [Link](https://www.codecademy.com/learn/paths/code-foundations) | [View Certificate](https://www.codecademy.com/profiles/Kedislav/certificates/5b55e668646caa552f8e4d1d)
+- [x] <img src="https://img.icons8.com/color/20/000000/console.png"/> Command-Line Course | [Link](https://www.codecademy.com/learn/learn-the-command-line) | [View Certificate](https://www.codecademy.com/profiles/Kedislav/certificates/c87ba0541f8be78bc2f4ba1128233f6f)
+- [x] <img src="https://img.icons8.com/color/20/000000/hashtag-2.png"/> Bash Scripting Course | [Link](https://www.codecademy.com/learn/bash-scripting) | [View Certificate](https://www.codecademy.com/profiles/Kedislav/certificates/37c55263a9f1b1f7603f7551c293ecbd)
+- [ ] <img src="https://img.icons8.com/color/20/000000/swift.png"/> Swift Language Course | [Link](https://www.codecademy.com/learn/learn-swift)
+- [ ] <img src="https://img.icons8.com/color/20/000000/python--v1.png"/> Python3 Language Course | [Link](https://www.codecademy.com/learn/learn-python-3)
+
+### <a href="https://www.khanacademy.org" target="_blank" alt="Khanacademy"> <img src="https://img.icons8.com/color/100/000000/khan-academy.png"/> </a><br> Khanacademy
