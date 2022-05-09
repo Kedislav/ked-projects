@@ -1,5 +1,5 @@
-# 0x00 // ked-projects
-Personal projects I've worked on through different platforms, such as Codecademy, Hack the Box, FreeCodeCamp, Scrimba, Educative, etc. It includes a wide variety of things I've done, such as programming, scripts, CTF writeups and automated tools I made for fun. Enjoy.
+# Ked's Personal Projects | Welcome!
+This repository contains personal projects I've worked on through different platforms, such as Codecademy, Hack the Box, FreeCodeCamp, Scrimba, Educative, etc. It includes a wide variety of things I've done, such as programming, scripts, CTF writeups and automated tools I made for fun. Enjoy.
 
 ## Fun Projects I've Taken On:
 - Set up an Ubuntu Server (Ubuntu 22.04 LTS).
