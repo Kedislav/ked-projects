@@ -31,26 +31,26 @@ Our `nmap` scan returns port 23 open, which is the default port for telnet (see 
 
 ## Tasks and Flag
 
->#task-1 **Task 1:  What does the acronym VM stand for?**
->*Hint: Described in the Setting Up section of the write-up, it is the alternative to using the dedicated, browser-based Pwnbox service.*
+>#task-1 **Task 1:  What does the acronym VM stand for?** <br/>
+>*Hint: Described in the Setting Up section of the write-up, it is the alternative to using the dedicated, browser-based Pwnbox service.* <br/>
 >Answer: virtual machine.
 
 The hint very clearly points us in the direction of the answer, but the term *VM* is one you'll see a lot in the tech world, so be sure to remember it. You'll probably use VM's when setting up a personal lab, testing programs, analyzing files and other fun things!
 
->#task-2 **Task 2: What tool do we use to interact with the operating system in order to issue commands via the command line, such as the one to start our VPN connection? It's also known as a console or shell.**
->*Hint: One word. It's also the name of the location in any airport where passengers transfer between ground transportation and the facilities that allow them to board their flight.*
+>#task-2 **Task 2: What tool do we use to interact with the operating system in order to issue commands via the command line, such as the one to start our VPN connection? It's also known as a console or shell.** <br/>
+>*Hint: One word. It's also the name of the location in any airport where passengers transfer between ground transportation and the facilities that allow them to board their flight.* <br/>
 >Answer: terminal
 
 This is one question I like a lot. On the surface, *terminal*, *console* and *shell* are explained to be synonyms. People will use these terms interchangeably, but in terms of specifics, they are different. Check [this link](https://www.geeksforgeeks.org/difference-between-terminal-console-shell-and-command-line/) and [this link](https://www.freecodecamp.org/news/command-line-for-beginners/#differencebetweenconsolecommandlinecliterminalandshell) to see the exact differences.
 
->#task-3 **Task 3: What service do we use to form our VPN connection into the HTB labs?**
->*Hint: It's an open source VPN service which comes preinstalled on most Linux-based Operating Systems.*
+>#task-3 **Task 3: What service do we use to form our VPN connection into the HTB labs?** <br/>
+>*Hint: It's an open source VPN service which comes preinstalled on most Linux-based Operating Systems.* <br/>
 >Answer: openvpn
 
 We already used `openvpn` to open and interpret the `starting_point_<username>.ovpn` file to connect, through a VPN tunnel, to the starting point lab. Read more about `openvpn` in [this link](https://community.openvpn.net/openvpn/wiki/OverviewOfOpenvpn).
 
->#task-4 **Task 4: What is the abbreviated name for a 'tunnel interface' in the output of your VPN boot-up sequence output?**
->*Hint: Short for tunnel. The tunnel interface is your connection between the target's network and your own VM.*
+>#task-4 **Task 4: What is the abbreviated name for a 'tunnel interface' in the output of your VPN boot-up sequence output?** <br/>
+>*Hint: Short for tunnel. The tunnel interface is your connection between the target's network and your own VM.* <br/>
 >Answer: tun
 
 As we said before, VPN connections initiate a tunneled connection, direct between you and the target. The tunnel abbreviation most commonly used is `tun`, and you can see it for yourself in your own interface. Input the `ip address` command (you could also use `ifconfig`!), and your output should look like the code block below;
@@ -64,8 +64,8 @@ $ ip address
 
 To read more about network interfaces, check [this link](https://codewithyury.com/demystifying-ifconfig-and-network-interfaces-in-linux/) to read more about network interfaces, and check [this video out](https://www.youtube.com/watch?v=SSLpvcIOPK0) for a more guided explanation. Let us continue!
 
->#task-5 **Task 5: What tool do we use to test our connection to the target with an ICMP echo request>**
->*Hint: It's also half of the name of a very popular sport, also known as table tennis.*
+>#task-5 **Task 5: What tool do we use to test our connection to the target with an ICMP echo request>** <br/>
+>*Hint: It's also half of the name of a very popular sport, also known as table tennis.* <br/>
 >Answer: ping
 
 The hint already tells us enough, but what even is *ICMP*, and what is an *echo request*? Very short explanation, ICMP is short for **Internet Control Message Protocol** and it is what we use to "check" whether a host is alive or not. Think of the *echo request* as the type of message, akin to knocking on a door and asking "Hey, are you there?". If the host answers back "Yes, I'm here, alive and well", we know they're, pardon my redundancy, alive and well.
@@ -86,20 +86,20 @@ rtt min/avg/max/mdev = 23.733/24.274/24.722/0.409 ms
 
 Success! We can see that out of 3 packets transmitted (or sent), 3 packets were received by google.com! Google lives and is alive and well. To see more in depth information about the [ICMP](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol) and the [ping command](https://en.wikipedia.org/wiki/Ping_(networking_utility)) check those links.
 
->#task-6 **Task 6: What is the name of the most common tool for finding open ports on a target?**
->*Hint: Short for Network Mapper, a popular network host scanning tool.*
+>#task-6 **Task 6: What is the name of the most common tool for finding open ports on a target?** <br/>
+>*Hint: Short for Network Mapper, a popular network host scanning tool.* <br/>
 >Answer: nmap
 
 We already used this utility! Network Mapper, or `nmap` is usually the first step to any penetration test. We need to find the open ports, we need to enumerate our target to see what possible attack vectors are at our disposal. You can see more information [about nmap here](https://nmap.org/book/man.html#man-description) and a guided [video on how to use it](https://www.youtube.com/watch?v=4t4kBkMsDbQ) here. 
 
->#task-7 **Task 7: What service do we identify on port 23/tcp during our scans?**
->*Hint: This service runs on port 23/tcp by default, meaning we can research the port on Google and receive the correct result easily.*
+>#task-7 **Task 7: What service do we identify on port 23/tcp during our scans?** <br/>
+>*Hint: This service runs on port 23/tcp by default, meaning we can research the port on Google and receive the correct result easily.* <br/>
 >Answer: telnet
 
 Let's remember we already did our enumeration on this machine right at the very start. Our `nmap` scan told us port 23/tcp is running `telnet`. To read a bit more in-depth about telnet, [check here](https://en.wikipedia.org/wiki/Telnet) for a description, and [a more advanced guide on pentesting telnet](https://book.hacktricks.xyz/network-services-pentesting/pentesting-telnet) service here.
 
->#task-8 **Task 8: What username is able to log into the target over telnet with a blank password?**
->*Hint: It is popularly known as the administrative account for any Linux-based Operating System, residing at the highest level of privilege on any such system.*
+>#task-8 **Task 8: What username is able to log into the target over telnet with a blank password?** <br/>
+>*Hint: It is popularly known as the administrative account for any Linux-based Operating System, residing at the highest level of privilege on any such system.* <br/>
 >Answer: root
 
 First, to log in to anything, we need to connect to the machine. To do that, we know `telnet` is open, and the box is hinting towards it, so let's go and connect to it using the `telnet` protocol.
@@ -185,4 +185,4 @@ root@meow:~# cat flag.txt
 b40abdfe23665f766f9c61ecba8a4c19
 ```
 
-Another machine pwned! #flag == b40abdfe23665f766f9c61ecba8a4c19
+Another machine pwned! Our flag is b40abdfe23665f766f9c61ecba8a4c19.
