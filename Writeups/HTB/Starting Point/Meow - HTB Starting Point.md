@@ -1,3 +1,4 @@
+# Meow - HackTheBox Starting Point (Machine 1)
 The tags available for this machine are *enumeration*, *telnet*, *external* and *penetration tester level 1*. It is a good machine to practice the core basics of the telnet service and how to break it. We start by connecting to our VPN to access the machines by using the `openvpn` command.
 
 ```shell
@@ -6,7 +7,9 @@ $ sudo openvpn ~/path/to/file/starting_point_<username>.ovpn
 
 After we spawn our machine, we receive an IP address. Mine was assigned to be `10.129.212.7`, so I'll be using that. Note that your machine's IP will probably be different.
 
-#enumeration We start by enumerating our target machine. We can use either `nmap` or `masscan`. Whichever one you use, just be sure to use the correct flags. In my case, I'll be using `nmap`, paired with the `-A` to enable OS detection, service version detection, script scanning and traceroute.
+## Enumeration
+
+We start by enumerating our target machine. We can use either `nmap` or `masscan`. Whichever one you use, just be sure to use the correct flags. In my case, I'll be using `nmap`, paired with the `-A` to enable OS detection, service version detection, script scanning and traceroute.
 
 **Note: this `nmap` scan is not quiet, as it runs a lot of pings and requests to the target! To run a stealthy scan, please use AT LEAST the `-s` flag to spoof your IP, `-f` to evade firewall, and the `-sS` to run a SYN scan only. Consider using the `proxychain` utility as well.
 
@@ -25,6 +28,8 @@ Nmap done: 1 IP address (1 host up) scanned in 40.66 seconds
 ```
 
 Our `nmap` scan returns port 23 open, which is the default port for telnet (see [default port assignment](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)) so we know this machine is running service *telnet*, version *Linux telnetd*. The scan also tells us that this machine is running a *Linux OS*. Very useful! Now, let's turn to the questions on the HTB webpage.
+
+## Tasks and Flag
 
 >#task-1 **Task 1:  What does the acronym VM stand for?**
 >*Hint: Described in the Setting Up section of the write-up, it is the alternative to using the dedicated, browser-based Pwnbox service.*
