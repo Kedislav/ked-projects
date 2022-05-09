@@ -1,4 +1,4 @@
-# Welcome!
+# Ked's PicoCTF Writeups | Welcome!
 This here is a copy of the writeups I've developed when tackling [picoCTF challenges](https://play.picoctf.org/practice). They, in no regard, represent an official way of solving each of these, and by all means I encourage you to find your own; practicing skills is necessary to get better, and reading the answer is by no means practicing. You are more than welcome to do so if you wanna compare answers for a problem, or simply parse through my thought process. Don't forget to check out the included [resources page](https://picoctf.org/resources) as it includes useful information and insight to solve the challenges ahead. </br>
 
 ## Navigating the Writeups
