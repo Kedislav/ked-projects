@@ -11,7 +11,7 @@ After we spawn our machine, we receive an IP address. Mine was assigned to be `1
 
 We start by enumerating our target machine. We can use either `nmap` or `masscan`. Whichever one you use, just be sure to use the correct flags. In my case, I'll be using `nmap`, paired with the `-A` to enable OS detection, service version detection, script scanning and traceroute.
 
-**Note: this `nmap` scan is not quiet, as it runs a lot of pings and requests to the target! To run a stealthy scan, please use AT LEAST the `-s` flag to spoof your IP, `-f` to evade firewall, and the `-sS` to run a SYN scan only. Consider using the `proxychain` utility as well.
+**Note: this `nmap` scan is not quiet, as it runs a lot of pings and requests to the target! To run a stealthy scan, please use AT LEAST the `-s` flag to spoof your IP, `-f` to evade firewall, and the `-sS` to run a SYN scan only. Consider using the `proxychain` utility as well.**
 
 ```shell
 $ nmap -A -T4 10.129.212.7
