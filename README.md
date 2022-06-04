@@ -18,4 +18,6 @@ This repository contains personal projects I've worked on through different plat
 - [ ] <img src="https://img.icons8.com/color/20/000000/swift.png"/> Swift Language Course | [Link](https://www.codecademy.com/learn/learn-swift)
 - [ ] <img src="https://img.icons8.com/color/20/000000/python--v1.png"/> Python3 Language Course | [Link](https://www.codecademy.com/learn/learn-python-3)
 
-### <a href="https://www.khanacademy.org" target="_blank" alt="Khanacademy"> <img src="https://img.icons8.com/color/100/000000/khan-academy.png"/> </a><br> Khanacademy
+### <a href="https://www.freecodecamp.org" target="_blank" alt="FreeCodeCamp"> <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/undefined/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-duo-tal-revivo.png"/> </a><br> FreeCodeCamp
+
+### <a href="https://www.khanacademy.org" target="_blank" alt="Khanacademy"> <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/90/undefined/external-khan-academy-is-a-non-profit-educational-organization-logo-duo-tal-revivo.png"/> </a><br> Khanacademy
