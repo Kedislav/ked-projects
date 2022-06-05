@@ -1,14 +1,15 @@
 # Ked's Personal Projects | Welcome!
 This repository contains personal projects I've worked on through different platforms, such as Codecademy, Hack the Box, FreeCodeCamp, Scrimba, Educative, etc. It includes a wide variety of things I've done, such as programming, scripts, CTF writeups and automated tools I made for fun. Enjoy.
 
-## Fun Projects I've Taken On:
+## ⏲️ Fun Projects I've Taken On:
 - Set up an Ubuntu Server (Ubuntu 22.04 LTS).
     - Redirected it's IP to point to a **dynamic DNS**.
-    - Memed its default SSH port with the **[Endlessh](https://github.com/skeeto/endlessh)** tarpit to stop script kiddies and bots.
+    - Memed its default SSH port with the [**Endlessh**](https://github.com/skeeto/endlessh) tarpit to stop script kiddies and bots.
     - Configured it to run **Synapse**, a [**Matrix**](https://matrix.org/) homeserver implementation.
         - Implemented [PostgreSQL](https://www.postgresql.org/about/) for User Auth. ([@dpizarrow](https://github.com/dpizarrow) helped a lot, check him out!)
 
-## Courses/Practices
+
+## ✒️ Courses and Practices:
 
 ### <a href="https://www.codecademy.com" target="_blank" alt="Codecademy"> <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/000000/external-codecademy-an-online-platform-offers-free-coding-classes-programming-languages-logo-duo-tal-revivo.png"/> </a><br> Codecademy
 - [ ] <img src="https://img.icons8.com/color/20/000000/informatics.png"/> Computer Science Carreer Path | [Link](https://www.codecademy.com/learn/paths/computer-science)
