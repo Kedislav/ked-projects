@@ -22,10 +22,10 @@ You will need Python installed in your system. You can install it from a termina
 ## How to use
 Run this command in a terminal inside the repository's directory:
 ```bash
-> python3 wp_scraper.py <news_url>
+> python3 scrape_washingtonpost.py <news_url>
 ```
 
 Example:
 ```bash
-> python3 wp_scraper.py https://www.washingtonpost.com/technology/2020/09/25/privacy-check-blacklight/
+> python3 scrape_washingtonpost.py https://www.washingtonpost.com/technology/2020/09/25/privacy-check-blacklight/
 ```
